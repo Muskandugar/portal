@@ -1,0 +1,26 @@
+.login {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.signup {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+/* .box {
+  border: 1px solid #dfdfdf;
+  background-color: #fff;
+}
+
+.App {
+  text-align: center;
+} */
